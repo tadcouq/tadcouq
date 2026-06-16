@@ -7,7 +7,6 @@ resting...
 </p>
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=rx4uzykpzmhqn59m6fasu49jd&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rx4uzykpzmhqn59m6fasu49jd&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=true&mode=light">
+  <a href="https://discord.com/users/473842627515514884"><img src="https://lanyard.cnrad.dev/api/473842627515514884?showDisplayName=true&idleMessage=sleeping%20or%20doing%20something%20sus&theme=light&bg=ade6f0" />
   </a>
 </p>
