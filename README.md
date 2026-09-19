@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+    Intern - Center for Television Technology and Fine Arts, Vietnam Television
+</p>
+
+<p align="center">
   <a href="https://discord.com/users/473842627515514884"><img src="https://lanyard.cnrad.dev/api/473842627515514884?bg=ade6f0&showDisplayName=true&theme=light&idleMessage=sleeping%20or%20doing%20something%20supa%20sus&hideSpotify=true" />
   </a>
 </p>
