@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/473842627515514884"><img src="https://lanyard.cnrad.dev/api/473842627515514884?bg=ade6f0&showDisplayName=true&theme=light&idleMessage=sleeping%20or%20doing%20something%20supa%20sus&hideSpotify=true" />
+  <a href="https://discord.com/users/473842627515514884"><img src="https://live-discord-activity.tadcouq.deno.net/api/473842627515514884?bgColor=1b1c1e&borderRadius=0&idleMessage=I'm not doing anything&hideStatus=true" />
   </a>
 </p>
 
