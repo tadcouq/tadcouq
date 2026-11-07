@@ -1,6 +1,8 @@
 ## 4rever rebl 🏎️
 <p align="center">
-    bun install bun
+    <a href="https://a90.com/experiments/88x31/">
+        <img src="https://a90.com/experiments/88x31/thinkdiff.gif" width="352" height="124" alt="Think different. Powered by Google Gemini.">
+    </a>
 </p>
 
 <p align="center">
